@@ -1,0 +1,8 @@
+.terraform
+terraform/ssh
+terraform/terraform.tfstate.backup
+terraform/.terraform
+*.pyc
+bastion.profile
+.*.swp
+.idea
